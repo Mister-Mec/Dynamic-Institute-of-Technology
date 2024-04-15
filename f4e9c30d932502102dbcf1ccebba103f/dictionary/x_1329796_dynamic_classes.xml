@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="2d64668297a50210fca8fc90f053af75" label="Classes" max_length="40" name="x_1329796_dynamic_classes" type="collection">
+        <element label="End" max_length="40" name="end" type="glide_time"/>
+        <element label="No. of Students" max_length="40" name="no_of_students" type="integer"/>
+        <element label="Start" max_length="40" name="start" type="glide_time"/>
+        <element label="Subject" max_length="25" name="subject" type="string"/>
+        <element label="Taken By" max_length="32" name="taken_by" reference="x_1329796_dynamic_users" type="reference"/>
+        <index name="index">
+            <element name="taken_by"/>
+        </index>
+    </element>
+</database>
