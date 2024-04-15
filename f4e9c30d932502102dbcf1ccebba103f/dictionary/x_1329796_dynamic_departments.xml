@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="8347d2ce932502102dbcf1ccebba1089" label="Departments" max_length="40" name="x_1329796_dynamic_departments" type="collection">
+        <element label="Contact" max_length="40" name="contact" type="string"/>
+        <element label="Description" max_length="40" name="description" type="string"/>
+        <element label="Head count" max_length="40" name="head_count" type="integer"/>
+        <element label="Head of the Department" max_length="32" name="head_of_the_department" reference="x_1329796_dynamic_users" type="reference"/>
+        <element label="Name" max_length="40" name="name" type="string"/>
+        <element label="Parent" max_length="40" name="parent" reference="x_1329796_dynamic_departments" type="reference"/>
+        <element label="Year of Establishment" max_length="40" name="year_of_establishment" type="integer"/>
+        <index name="index">
+            <element name="head_of_the_department"/>
+        </index>
+    </element>
+</database>

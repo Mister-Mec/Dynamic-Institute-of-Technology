@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="parent" label="Parent" language="en" table="x_1329796_dynamic_departments">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>parent</element>
+            <help/>
+            <hint/>
+            <label>Parent</label>
+            <language>en</language>
+            <name>x_1329796_dynamic_departments</name>
+            <plural>Parents</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-04-15 10:20:19</sys_created_on>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Parent</sys_name>
+            <sys_package display_value="Dynamic Institute of Technology" source="x_1329796_dynamic">f4e9c30d932502102dbcf1ccebba103f</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Dynamic Institute of Technology">f4e9c30d932502102dbcf1ccebba103f</sys_scope>
+            <sys_update_name>sys_documentation_x_1329796_dynamic_departments_parent_en</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-04-15 10:20:19</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>

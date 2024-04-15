@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_app_module">
+    <sys_app_module action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <application display_value="Users">836652ce932502102dbcf1ccebba10a2</application>
+        <assessment/>
+        <device_type/>
+        <filter/>
+        <hint/>
+        <homepage/>
+        <image/>
+        <link_type>LIST</link_type>
+        <map_page/>
+        <mobile_title>Users</mobile_title>
+        <mobile_view_name>Mobile</mobile_view_name>
+        <name>x_1329796_dynamic_users</name>
+        <order/>
+        <override_menu_roles>false</override_menu_roles>
+        <query/>
+        <report/>
+        <roles>x_1329796_dynamic.users_user</roles>
+        <sys_class_name>sys_app_module</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-04-15 10:06:55</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>cf6652ce932502102dbcf1ccebba10a5</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Users</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="Dynamic Institute of Technology" source="x_1329796_dynamic">f4e9c30d932502102dbcf1ccebba103f</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Dynamic Institute of Technology">f4e9c30d932502102dbcf1ccebba103f</sys_scope>
+        <sys_update_name>sys_app_module_cf6652ce932502102dbcf1ccebba10a5</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-04-15 10:06:55</sys_updated_on>
+        <timeline_page/>
+        <title>Users</title>
+        <uncancelable>false</uncancelable>
+        <view_name/>
+        <window_name/>
+    </sys_app_module>
+</record_update>
