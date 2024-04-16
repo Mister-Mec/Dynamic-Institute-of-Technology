@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="23fe261647e942106ea3dd38c26d430f" label="Clubs" max_length="40" name="x_1329796_dynamic_clubs" type="collection">
+        <element label="Budget" max_length="40" name="budget" type="string"/>
+        <element label="Established" max_length="40" name="established" type="glide_date"/>
+        <element label="Head" max_length="32" name="head" reference="imp_user" type="reference"/>
+        <element label="Major event" max_length="40" name="major_event" type="string"/>
+        <element label="Month  Of Major Event" max_length="40" name="month_of_major_event" type="string"/>
+        <element label="Name" max_length="40" name="name" type="string"/>
+        <element label="Number of Members" max_length="40" name="number_of_members" type="string"/>
+        <index name="index">
+            <element name="head"/>
+        </index>
+    </element>
+</database>
